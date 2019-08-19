@@ -3,6 +3,6 @@
 * Spring-Boot
 * JPA, Hibernate
 * Swagger UI
-* AWS SES
+* AWS VPC, EC2, SES, RDS
 * Docker Swarm
 * Jenkins
